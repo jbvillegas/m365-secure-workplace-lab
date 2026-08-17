@@ -1,4 +1,4 @@
-## First Objective & Process
+# First Objective & Process
 
 - This first objective involves the creation of the company account as well as stablishing security features such as MFA and separate admin accounts.
 
