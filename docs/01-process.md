@@ -8,4 +8,4 @@
 
 - All the screenshots will be included in this file, if necessary they can be found in the **screenshots** folder. 
 
-[!01-AdminMFA](/screenshots/01-admin-mfa.png) 
+[01-Admin-mfa](/screenshots/01-admin-mfa.png) 
