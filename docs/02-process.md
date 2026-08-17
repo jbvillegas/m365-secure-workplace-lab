@@ -10,13 +10,13 @@
     - Department
     - Job Title
 
-[02-test-users](/screenshots/02-test-users.png)
+![02-test-users](/screenshots/02-test-users.png)
 
 ### User/s with Populated Fields
 
-[03-user-properties](/screenshots/03-user-properties.png)
+![03-user-properties](/screenshots/03-user-properties.png)
 
-[04-user-properties-more](/screenshots/04-user-properties-more.png)
+![04-user-properties-more](/screenshots/04-user-properties-more.png)
 
 ## Groups
 
@@ -43,12 +43,12 @@
 
 ### Groups Following Naming Conventions
 
-[05-group-membership](/screenshots/05-group-membership.png)
+![05-group-membership](/screenshots/05-group-membership.png)
 
 ### Groups Populated with Users
 
-[06-group-populated](/screenshots/06-group-populated.png) 
+![06-group-populated](/screenshots/06-group-populated.png) 
 
 ### User's Groups
 
-[07-users-groups](/screenshots/07-users-groups.png)
+![07-users-groups](/screenshots/07-users-groups.png)
