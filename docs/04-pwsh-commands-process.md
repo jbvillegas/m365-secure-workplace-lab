@@ -33,9 +33,9 @@
 
 - List Users:
 
-! [14-getuser-command](/screenshots/14-getuser-command.png)
-
     - By adding a **"| Select-Object"** after "-All" we can choose the attributes from the user that we would like to list, such as **DisplayName** or **Department**.
+
+![14-getuser-command](/screenshots/14-getuser-command.png)
 
 - List Groups:
 
